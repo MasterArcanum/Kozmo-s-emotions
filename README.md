@@ -20,7 +20,7 @@ Once the sketch is uploaded, the OLED display will show a series of eye animatio
 This project is released under the MIT License.
 
 <h2>Authors and Acknowledgements</h2>
-This code was written by <strong>MasterArcanum</strong>. Thanks to Adafruit for providing the necessary libraries for interfacing with the SSD1306 OLED display.
+This code was written by <a href="https://github.com/MasterArcanum"><strong>MasterArcanum</strong></a> . Thanks to Adafruit for providing the necessary libraries for interfacing with the SSD1306 OLED display.
 
 
 <h2>Connection diagram</h2>
