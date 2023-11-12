@@ -22,6 +22,8 @@ This project is released under the MIT License.
 <h2>Authors and Acknowledgements</h2>
 This code was written by <a href="https://github.com/MasterArcanum"><strong>MasterArcanum</strong></a> . Thanks to Adafruit for providing the necessary libraries for interfacing with the SSD1306 OLED display.
 
+<h2>P.S</h2>
+Please indicate the author of this code when publicly demonstrating the code and when using it. Thanks
 
 <h2>Connection diagram</h2>
 
